@@ -6,7 +6,7 @@
   "license": "ISC",
   "description": "",
   "scripts": {
-    "render-client": "cd frontend && yarn install && yarn start",
+    "render-client": "cd frontend && yarn install && yarn build",
     "start-server": "cd backend && yarn install && node server"
   }
 }
