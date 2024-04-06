@@ -7,6 +7,6 @@
   "description": "",
   "scripts": {
     "render-client": "cd frontend && npm install && npm run build",
-    "start-server": "cd backend && npm install && nodemon server"
+    "start-server": "cd backend && npm install && node server"
   }
 }
