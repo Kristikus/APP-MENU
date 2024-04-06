@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "render-client": "cd frontend && npm install && npm run start",
+    "start-server": "cd backend && npm install && nodemon server"
+  },
+  "name": "app-menu",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
